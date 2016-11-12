@@ -2,11 +2,12 @@
 
 - Keeping it simple and minimal for your startup projects.
 - No Node server require. Just build and see the index file on your favorite browser.
-- Easy and extendible extendable.
+- Easy and extendable.
 
 # Stack
 - React
 - React Router
+- Redux
 - Typescript 2
 - React Toolbox (hey! this one is trivial to include. But you are good here.)
 - SASS support
