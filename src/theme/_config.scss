@@ -1,0 +1,11 @@
+@import "~react-toolbox/lib/colors";
+@import "~react-toolbox/lib/button/mixins";
+
+$color-primary: $palette-blue-500;
+$color-primary-dark: $palette-blue-700;
+
+
+.divider{
+    border-bottom: 1px solid #dbdbdb;
+    margin: 50px 0;
+}
